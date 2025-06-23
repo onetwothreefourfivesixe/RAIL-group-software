@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./modules/environments",
+        "./modules/lsp"
+    ]
+}
